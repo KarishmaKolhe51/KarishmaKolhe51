@@ -24,3 +24,11 @@ Apart from the above, I have a keen interest in ML & DL and how it can be levera
 
 ### Projects
 
+Business Case 1: Yelp-User-Engagement-Analysis
+Link: 
+
+Business Case 2:
+Link: 
+
+Business Case 3:
+Link: 
