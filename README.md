@@ -30,7 +30,7 @@ Link: https://github.com/KarishmaKolhe51/Yelp-User-Engagement-Analysis
 
 Business Case 2: Students Performance Analysis
 
-Link: 
+Link: https://github.com/KarishmaKolhe51/Students-Performance-Analysis
 
 Business Case 3: Superstore Sales Analysis
 
