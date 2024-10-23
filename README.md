@@ -25,10 +25,13 @@ Apart from the above, I have a keen interest in ML & DL and how it can be levera
 ### Projects
 
 Business Case 1: Yelp-User-Engagement-Analysis
+
+Link: https://github.com/KarishmaKolhe51/Yelp-User-Engagement-Analysis
+
+Business Case 2: Students Performance Analysis
+
 Link: 
 
-Business Case 2:
-Link: 
+Business Case 3: Superstore Sales Analysis
 
-Business Case 3:
 Link: 
