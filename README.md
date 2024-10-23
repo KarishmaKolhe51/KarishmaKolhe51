@@ -34,4 +34,4 @@ Link: https://github.com/KarishmaKolhe51/Students-Performance-Analysis
 
 Business Case 3: Superstore Sales Analysis
 
-Link: 
+Link: https://github.com/KarishmaKolhe51/Superstore-Sales-Analysis
