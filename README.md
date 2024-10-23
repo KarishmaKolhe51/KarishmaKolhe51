@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi I am Karishma Kolhe
 
-<!--
-**KarishmaKolhe51/KarishmaKolhe51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Upskilling in Data Science and Machine Learning | Computer Engineer
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineer passionate about using data to inform decision-making and generate valuable insights. I am currently working in Data Analytics field and I have a strong & exhaustive skillset in SQL, Excel, Python, BI tools & Statistics.
+
+### Skills:
+
+SQL (Joins, Group-By, Window-Functions, DateTime & String functions, etc)
+
+Data Cleaning
+
+EDA to generate insights & curate recommendations relevant to the problem statement
+
+Data Visualization
+
+Dashboarding (using BI Tools such as PowerBI)
+
+Applied Statistics (Conditional Probability, Random Variables & Distributions, CLT, Hypothesis Testing, etc )
+
+Apart from the above, I have a keen interest in ML & DL and how it can be leveraged to solve business problems across different verticals. I am currently upskilling in this domian and hope to see myself as a skilled professional comfortable to work across the multiple stages in a typical ML project.
+
+### Projects
+
